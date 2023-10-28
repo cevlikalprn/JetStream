@@ -19,7 +19,7 @@ import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.cevlikalprn.jetstream.theme.ImdbColor
-import com.cevlikalprn.jetstream.util.JsHeightSmallSpacer
+import com.cevlikalprn.jetstream.spacer.JsHeightSmallSpacer
 
 @Composable
 fun JsMovieItemTemplate(

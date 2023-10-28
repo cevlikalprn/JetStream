@@ -1,4 +1,4 @@
-package com.cevlikalprn.jetstream.util
+package com.cevlikalprn.jetstream.spacer
 
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
