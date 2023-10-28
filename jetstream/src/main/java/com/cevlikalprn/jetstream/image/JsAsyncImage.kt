@@ -15,7 +15,7 @@ import coil.request.CachePolicy
 import coil.request.ImageRequest
 
 @Composable
-fun JsImage(
+fun JsAsyncImage(
     modifier: Modifier = Modifier,
     image: Any?,
     contentDescription: String? = null,
